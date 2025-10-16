@@ -1,0 +1,14 @@
+{
+  "name": "2_npm",
+  "version": "1.0.0",
+  "description": "learning_course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adrshmk",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.9.3"
+  }
+}
